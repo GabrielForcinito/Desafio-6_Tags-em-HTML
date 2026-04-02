@@ -32,13 +32,6 @@ Neste projeto pratiquei:
 * Organização de conteúdo
 * Boas práticas de HTML
 
-## 🚀 Melhorias futuras
-
-* Aplicar estilização com CSS
-* Melhorar a apresentação visual
-* Criar exemplos interativos
-* Adicionar explicações mais detalhadas
-
 ## 👨‍💻 Autor
 
 Gabriel Forcinito
